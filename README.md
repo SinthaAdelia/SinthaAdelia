@@ -1,0 +1,2 @@
+# SinthaAdelia
+Praktikum Pemrograman Internet
